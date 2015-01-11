@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+    <![CDATA[
+      <reference name="">
+
+      </reference>
+    ]]>
+  </content>
+  <tabTrigger>mg-ref</tabTrigger>
+  <scope>text.xml</scope>
+  <description>Add reference tag</description>
+</snippet>
