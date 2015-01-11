@@ -6,3 +6,4 @@ Available snippets
 
 ### Suggestions
 
+If you have something to improve these snippets, please create a [issue](https://github.com/MageFront/MagentoSnippets/issues/new)
