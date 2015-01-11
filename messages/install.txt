@@ -1,0 +1,8 @@
+Thank you for install Magento Front End Snippets!
+
+Available snippets
+
+//@TODO HERE CONTENT OF THE FIRST SNIPPETS
+
+### Suggestions
+
