@@ -6,7 +6,7 @@
       </block>
     ]]>
   </content>
-  <tabTrigger>mg-cms-block</tabTrigger>
+  <tabTrigger>mg-xml-cms-block</tabTrigger>
   <scope>text.xml</scope>
   <description>CMS Block in XML</description>
 </snippet>
