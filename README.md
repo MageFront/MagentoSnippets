@@ -1,5 +1,7 @@
 # MagentoSnippets
-Magento Front End Snippets, plugin for Sublime Text
+Magento Front End Snippets, plugin for Sublime Text.
+
+This tool serves to aid the productivity during the Magento's theme development through snippets. These snippets brings partial codes belonging the Magento framework. These code that we used everyday, but never memorized because they are often complex and lengthy.
 
 ### Installation
 Install via **Package Control** (coming soon)
