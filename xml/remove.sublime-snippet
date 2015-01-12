@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<remove name=""/>]]></content>
+  <tabTrigger>mg-rm</tabTrigger>
+  <scope>text.xml</scope>
+  <description>XML to removes a block</description>
+</snippet>
