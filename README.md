@@ -12,16 +12,16 @@ In some editors just the tab key don't trigger the snippet, so you have do press
 
 ### XML
 
-1. `sx-vp + tab` | Meta viewport
+1. `mg-php-cms-block + tab` | CMS Block in PHTML(PHP+HTML)
 1. `sx-ga + tab` | Google Analytics
 1. `sx-html-basic + tab` | Basic HTML estructure
-2. 
 
 ### PHTML
 
-1. `sx-vp + tab` | Meta viewport
-1. `sx-ga + tab` | Google Analytics
-1. `sx-html-basic + tab` | Basic HTML estructure
+1. `mg-php-cms-block + tab` | CMS Block in PHTML(PHP+HTML)
+1. `mg-url + tab` | Get Url
+1. `mg-script + tab` | Adds script/javascript tag
+1. `mg-img + tab` | Image Skin Url
 
 
 ### JS
