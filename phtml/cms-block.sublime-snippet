@@ -3,6 +3,6 @@
 <? echo $this->getLayout()->createBlock('cms/block')->setBlockId('')->toHtml(); ?>
   ]]></content>
   <tabTrigger>mg-php-cms-block</tabTrigger>
-  <scope>text.html.basic source.php.embedded.block.html support.function.construct.php</scope>
+  <scope>text.html.basic</scope>
   <description>CMS Block in PHTML(PHP+HTML)</description>
 </snippet>
