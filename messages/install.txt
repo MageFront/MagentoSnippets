@@ -8,23 +8,23 @@ Avaiable Snippets:
 
 XML
 
- * 'mg-xml-cms-block + tab' | CMS Block in XML
- * 'mg-xml-css + tab' | Adds CSS in XML
- * 'mg-ref + tab' | Add reference tag
- * 'mg-rm + tab' | XML to removes a block
- * 'mg-set-template + tab' | Action to set a new root template
- * 'mg-xml-skinjs + tab' | Add skin js in XML
+* 'mg-xml-cms-block + tab' | CMS Block in XML
+* 'mg-xml-css + tab' | Adds CSS in XML
+* 'mg-ref + tab' | Add reference tag
+* 'mg-rm + tab' | XML to removes a block
+* 'mg-set-template + tab' | Action to set a new root template
+* 'mg-xml-skinjs + tab' | Add skin js in XML
 
 PHTML
 
- * 'mg-php-cms-block + tab' | CMS Block in PHTML(PHP+HTML)
- * 'mg-url + tab' | Get Url
- * 'mg-script + tab' | Adds script/javascript tag
- * 'mg-img + tab' | Image Skin Url
+* 'mg-php-cms-block + tab' | CMS Block in PHTML(PHP+HTML)
+* 'mg-url + tab' | Get Url
+* 'mg-script + tab' | Adds script/javascript tag
+* 'mg-img + tab' | Image Skin Url
 
 JS
 
- * 'mg-prototype-dom-ready + tab' | Adds Prototype DOM ready
+* 'mg-prototype-dom-ready + tab' | Adds Prototype DOM ready
 
 
 Suggestions:
