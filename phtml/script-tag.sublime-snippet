@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[<script type="text/javascript"></script>]]></content>
-  <tabTrigger>mg-xml-css</tabTrigger>
+  <tabTrigger>mg-script</tabTrigger>
   <scope>text.html</scope>
   <description>Adds script/javascript tag</description>
 </snippet>
