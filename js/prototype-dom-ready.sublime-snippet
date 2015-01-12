@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[document.observe("dom:loaded", function(){})]]></content>
+  <tabTrigger>mg-xml-css</tabTrigger>
+  <scope>text.html.basic, source.js.embedded.html, source.js</scope>
+  <description>Adds Prototype DOM ready</description>
+</snippet>
