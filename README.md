@@ -2,7 +2,7 @@
 Magento Front End Snippets, plugin for Sublime Text
 
 ### Installation
-Install via **Package Control** or just clone the repository to the Sublime “Packages” directory.
+Install via **Package Control** (coming soon)
 
 ## How do I use it?
 The tab trigger of this plugin is mg-*
