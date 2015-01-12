@@ -32,3 +32,6 @@ In some editors just the tab key don't trigger the snippet, so you have do press
 ### JS
 
 1. `mg-prototype-dom-ready + tab` | Adds Prototype DOM ready
+
+## Suggestions
+If you have something to improve these snippets, please create a [issue](https://github.com/MageFront/MagentoSnippets/issues/new)
