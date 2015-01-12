@@ -1,11 +1,7 @@
 <snippet>
-  <content>
-    <![CDATA[
-      <block type="cms/block" name="">
-        <action method="setBlockId"><block_id></block_id></action>
-      </block>
-    ]]>
-  </content>
+  <content><![CDATA[<block type="cms/block" name="">
+<action method="setBlockId"><block_id></block_id></action>
+</block>]]></content>
   <tabTrigger>mg-xml-cms-block</tabTrigger>
   <scope>text.xml</scope>
   <description>CMS Block in XML</description>
