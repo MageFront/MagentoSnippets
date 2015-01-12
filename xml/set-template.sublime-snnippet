@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<action method="setTemplate"><template></template></action>]]></content>
+  <tabTrigger>mg-set-template</tabTrigger>
+  <scope>text.xml</scope>
+  <description>Action to set a new root template.</description>
+</snippet>
