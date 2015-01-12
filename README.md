@@ -12,9 +12,12 @@ In some editors just the tab key don't trigger the snippet, so you have do press
 
 ### XML
 
-1. `mg-php-cms-block + tab` | CMS Block in PHTML(PHP+HTML)
-1. `sx-ga + tab` | Google Analytics
-1. `sx-html-basic + tab` | Basic HTML estructure
+1. `mg-xml-cms-block + tab` | CMS Block in XML
+1. `mg-xml-css + tab` | Adds CSS in XML
+1. `mg-ref + tab` | Add reference tag
+1. `mg-rm + tab` | XML to removes a block
+1. `mg-set-template + tab` | Action to set a new root template
+1. `mg-xml-skinjs + tab` | Add skin js in XML
 
 ### PHTML
 
