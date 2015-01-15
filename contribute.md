@@ -17,6 +17,6 @@
 
 I will create new tags for each 5 new snippets added.
 
-If you have any question comment here, or for suggestion create an new issue.
+If you have any question comment here, or for suggestions create an new issue.
 
 Thanks!
