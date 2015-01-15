@@ -12,7 +12,7 @@
 
 6. Test the snippets that you have createad, mainly the right scope using the Scope Hunter plugin;
 
-7. After all tests, crate a new pull request for this repository. :)
+7. After all tests, create a new pull request for this repository. :)
 
 
 I will create new tags for each 5 new snippets added.
