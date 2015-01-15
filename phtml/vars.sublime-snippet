@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<? echo \$v = Mage::getModel('core/variable')->loadByCode('myidvar'); echo \$v->getValue('text'); ?>]]></content>
+  <tabTrigger>mg-vars</tabTrigger>
+  <scope>text.html.basic</scope>
+  <description>Get variable from Admin</description>
+</snippet>
