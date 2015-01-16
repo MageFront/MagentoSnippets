@@ -7,8 +7,9 @@ This tool serves to aid the productivity during the Magento's theme development 
 Install via [Package Control](https://packagecontrol.io/installation)
 
 ## How do I use it?
-The tab trigger of this plugin is mg-*
-In some editors just the tab key don't trigger the snippet, so you have do press control+space to make the things happen
+The tab trigger of this plugin is "mg-*".
+In some editors just the tab key don't trigger the snippet, so you have to press control+space to make the things happen:
+
 ![MagentoSnippets: example of use](http://www.magefront.com.br/wp-content/uploads/2015/01/magentoSnippets-sample1.gif)
 
 ## Avaiable Snippets
