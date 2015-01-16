@@ -4,7 +4,7 @@
 
 2. Install in your Sublime Text, via Package Control the plugin [Scope Hunter](https://packagecontrol.io/packages/ScopeHunter);
 
-3. If you already have the MagentoSnippets installed, remove it by the command palette Package Control: remove repository;
+3. If you already have the MagentoSnippets installed, remove it by the command palette Package Control: remove package/repository;
 
 4. Create your own snippets following the directory structure or create a new directory;
 
