@@ -11,7 +11,7 @@ The tab trigger of this plugin is "mg-*".
 
 In some editors just the tab key don't trigger the snippet, so you have to press control+space to make the things happen:
 
-![MagentoSnippets: example of use](http://www.magefront.com.br/wp-content/uploads/2015/01/magentoSnippets-sample1.gif)
+![MagentoSnippets: example of use](http://www.magefront.com.br/wp-content/uploads/2015/01/MagentoSnippets-sample.gif)
 
 ## Avaiable Snippets
 
