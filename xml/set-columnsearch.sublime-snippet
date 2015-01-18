@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[<reference name="search_result_list"><action method="setColumnCount"><count>4</count></action></reference>]]></content>
-  <tabTrigger>mg-xml-setcolumnsearch</tabTrigger>
-  <scope>text.xml</scope>
-  <description>Set Columns Search ou Tags Product List in XML</description>
-</snippet>
