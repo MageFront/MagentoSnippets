@@ -34,10 +34,14 @@ In some editors just the tab key don't trigger the snippet, so you have to press
 1. `mg-vars + tab` | Get Variable from admin
 1. `mg-getchildhtml + tab` | Get Child Html Method
 
-
 ### JS
 
 1. `mg-prototype-dom-ready + tab` | Adds Prototype DOM ready
+
+
+### SCSS
+
+1. `mg-clearfix + tab` | Creates a placeholder selector to fix floats
 
 ## Suggestions
 If you have something to improve these snippets, please create a [issue](https://github.com/MageFront/MagentoSnippets/issues/new)
