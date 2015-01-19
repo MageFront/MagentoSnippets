@@ -32,6 +32,7 @@ In some editors just the tab key don't trigger the snippet, so you have to press
 1. `mg-script + tab` | Adds script/javascript tag
 1. `mg-img + tab` | Image Skin Url
 1. `mg-vars + tab` | Get Variable from admin
+1. `mg-getchildhtml + tab` | Get Child Html Method
 
 
 ### JS
