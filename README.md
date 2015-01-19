@@ -23,6 +23,7 @@ In some editors just the tab key don't trigger the snippet, so you have to press
 1. `mg-rm + tab` | XML to removes a block
 1. `mg-set-template + tab` | Action to set a new root template
 1. `mg-xml-skinjs + tab` | Add skin js in XML
+1. `mg-xml-setcolumn + tab` | Add number of columns in product list
 
 ### PHTML
 
@@ -30,6 +31,7 @@ In some editors just the tab key don't trigger the snippet, so you have to press
 1. `mg-url + tab` | Get Url
 1. `mg-script + tab` | Adds script/javascript tag
 1. `mg-img + tab` | Image Skin Url
+1. `mg-vars + tab` | Get Variable from admin
 
 
 ### JS

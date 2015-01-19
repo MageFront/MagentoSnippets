@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<action method="setColumnCount"><count>4</count></action>]]></content>
+  <tabTrigger>mg-xml-setcolumn</tabTrigger>
+  <scope>text.xml</scope>
+  <description>Set Columns Product List in XML</description>
+</snippet>
