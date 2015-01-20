@@ -1,0 +1,32 @@
+MagentoSnippets v.1.0.1 (2015.01.22)
+What's new?!
+
+### SCSS [NEW!]
+
+ * mg-clearfix         :: Creates a placeholder selector to fix floats
+
+
+### XML
+
+ * mg-xml-setcolumn    :: Set Columns Product List in XML
+
+### JS
+
+ * mg-anon-func-jquery :: Adds JS anonymous function passing jQuery as parameter
+
+
+### PHTML
+
+ * mg-getchildhtml     :: Get Child Html Method
+ * mg-vars             :: Get variable from Admin
+
+
+## Help grow this tool!
+
+See the steps for how to contribute sending new snippets.
+    https://github.com/MageFront/MagentoSnippets/blob/master/contribute.md
+
+If you have something to improve these newsnippets please create a new issue.
+    https://github.com/MageFront/MagentoSnippets/issues/
+
+Thanks for use! And please, share it! :D

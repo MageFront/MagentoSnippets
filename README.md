@@ -37,6 +37,7 @@ In some editors just the tab key don't trigger the snippet, so you have to press
 ### JS
 
 1. `mg-prototype-dom-ready + tab` | Adds Prototype DOM ready
+1. `mg-anon-func-jquery + tab` | Adds JS anonymous function passing jQuery as parameter
 
 
 ### SCSS

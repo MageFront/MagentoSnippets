@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[(function ($) {
+} (jQuery))]]></content>
+  <tabTrigger>mg-anon-func-jquery</tabTrigger>
+  <scope>text.html.basic, source.js.embedded.html, source.js</scope>
+  <description>Adds JS anonymous function passing jQuery as parameter</description>
+</snippet>
