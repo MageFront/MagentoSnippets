@@ -34,6 +34,7 @@ In some editors just the tab key don't trigger the snippet, so you have to press
 1. `mg-vars + tab` | Get Variable from admin
 1. `mg-getchildhtml + tab` | Get Child Html Method
 1. `mg-productTypeId + tab` | Get Type Product Id
+1. `mg-translate-phtml + tab` | Adds the translator helper output
 
 ### JS
 
