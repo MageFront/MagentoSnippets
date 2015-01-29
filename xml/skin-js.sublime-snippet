@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<action method="addItem"><type>skin_js</type><name></name><params/></action>]]></content>
+  <content><![CDATA[<action method="addItem"><type>skin_js</type><name>$1</name><params/></action>]]></content>
   <tabTrigger>mg-xml-skinjs</tabTrigger>
   <scope>text.xml</scope>
   <description>Add skin js in XML</description>

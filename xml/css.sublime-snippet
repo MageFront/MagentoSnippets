@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<action method="addCss"><stylesheet>css/</stylesheet></action>]]></content>
+  <content><![CDATA[<action method="addCss"><stylesheet>css/$1</stylesheet></action>]]></content>
   <tabTrigger>mg-xml-css</tabTrigger>
   <scope>text.xml</scope>
   <description>Adds CSS in XML</description>

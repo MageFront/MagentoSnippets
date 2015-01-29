@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<reference name="">
+  <content><![CDATA[<reference name="$1">
 </reference>]]></content>
   <tabTrigger>mg-ref</tabTrigger>
   <scope>text.xml</scope>

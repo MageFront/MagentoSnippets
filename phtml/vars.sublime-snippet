@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<?php echo Mage::getModel('core/variable')->loadByCode('')->getValue(''); ?>]]></content>
+  <content><![CDATA[<?php echo Mage::getModel('core/variable')->loadByCode('$1')->getValue(''); ?>]]></content>
   <tabTrigger>mg-vars</tabTrigger>
   <scope>text.html.basic</scope>
   <description>Get variable from Admin</description>
