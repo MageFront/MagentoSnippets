@@ -1,5 +1,6 @@
 <snippet>
   <content><![CDATA[(function ($) {
+  	$1
 } (jQuery))]]></content>
   <tabTrigger>mg-anon-func-jquery</tabTrigger>
   <scope>text.html.basic, source.js.embedded.html, source.js</scope>

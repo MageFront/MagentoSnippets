@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<?php echo \$this->getChildHtml('');?>]]></content>
+  <content><![CDATA[<?php echo \$this->getChildHtml('$1');?>]]></content>
   <tabTrigger>mg-getchildhtml</tabTrigger>
   <scope>text.html.basic</scope>
   <description>Get Child Html Method</description>

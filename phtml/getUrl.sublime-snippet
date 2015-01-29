@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<?php echo \$this->getUrl('') ?>]]></content>
+  <content><![CDATA[<?php echo \$this->getUrl('$1') ?>]]></content>
   <tabTrigger>mg-url</tabTrigger>
   <scope>text.html.basic</scope>
   <description>Get Url</description>

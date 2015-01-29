@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<remove name=""/>]]></content>
+  <content><![CDATA[<remove name="$1"/>]]></content>
   <tabTrigger>mg-rm</tabTrigger>
   <scope>text.xml</scope>
   <description>XML to removes a block</description>

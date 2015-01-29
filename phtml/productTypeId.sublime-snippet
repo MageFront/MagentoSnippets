@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[<?php echo $_product->getTypeId(); ?>]]></content>
+	<content><![CDATA[<?php echo \$_product->getTypeId(); ?>]]></content>
 	<tabTrigger>mg-productTypeId</tabTrigger>
 	<scope>text.html.basic</scope>
 	<description>Get Type Product Id</description>
