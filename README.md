@@ -17,34 +17,34 @@ In some editors just the tab key don't trigger the snippet, so you have to press
 
 ### XML
 
-1. `mg-xml-cms-block + tab` | CMS Block in XML
-1. `mg-xml-css + tab` | Adds CSS in XML
-1. `mg-ref + tab` | Add reference tag
-1. `mg-rm + tab` | XML to removes a block
-1. `mg-set-template + tab` | Action to set a new root template
-1. `mg-xml-skinjs + tab` | Add skin js in XML
-1. `mg-xml-setcolumn + tab` | Add number of columns in product list
+1. 'mg-xml-cms-block + tab' | CMS Block in XML
+1. 'mg-xml-css + tab' | Adds CSS in XML
+1. 'mg-ref + tab' | Add reference tag
+1. 'mg-rm + tab' | XML to removes a block
+1. 'mg-set-template + tab' | Action to set a new root template
+1. 'mg-xml-skinjs + tab' | Add skin js in XML
+1. 'mg-xml-setcolumn + tab' | Add number of columns in product list
 
 ### PHTML
 
-1. `mg-php-cms-block + tab` | CMS Block in PHTML(PHP+HTML)
-1. `mg-url + tab` | Get Url
-1. `mg-script + tab` | Adds script/javascript tag
-1. `mg-img + tab` | Image Skin Url
-1. `mg-vars + tab` | Get Variable from admin
-1. `mg-getchildhtml + tab` | Get Child Html Method
-1. `mg-productTypeId + tab` | Get Type Product Id
-1. `mg-translate-phtml + tab` | Adds the translator helper output
+1. 'mg-php-cms-block + tab' | CMS Block in PHTML(PHP+HTML)
+1. 'mg-url + tab' | Get Url
+1. 'mg-script + tab' | Adds script/javascript tag
+1. 'mg-img + tab' | Image Skin Url
+1. 'mg-vars + tab' | Get Variable from admin
+1. 'mg-getchildhtml + tab' | Get Child Html Method
+1. 'mg-productTypeId + tab' | Get Type Product Id
+1. 'mg-translate-phtml + tab' | Adds the translator helper output
 
 ### JS
 
-1. `mg-prototype-dom-ready + tab` | Adds Prototype DOM ready
-1. `mg-anon-func-jquery + tab` | Adds JS anonymous function passing jQuery as parameter
-
+1. 'mg-prototype-dom-ready + tab' | Adds Prototype DOM ready
+1. 'mg-anon-func-jquery + tab' | Adds JS anonymous function passing jQuery as parameter
+1. 'mg-console-log + tab' | Add console.log for debug
 
 ### SCSS
 
-1. `mg-clearfix + tab` | Creates a placeholder selector to fix floats
+1. 'mg-clearfix + tab' | Creates a placeholder selector to fix floats
 
 ## Suggestions
 If you have something to improve these snippets, please create a [issue](https://github.com/MageFront/MagentoSnippets/issues/new)
