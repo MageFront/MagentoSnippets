@@ -25,6 +25,8 @@ In some editors just the tab key don't trigger the snippet, so you have to press
 1. 'mg-xml-skinjs + tab' | Add skin js in XML
 1. 'mg-xml-setcolumn + tab' | Add number of columns in product list
 1. 'mg-local-xml + tab' | Writes the basic structure to a new local.xml file
+1. 'mg-unsetchild + tab' | Unset Child Method
+1. 'mg-insert + tab' | Insert block Method
 
 ### PHTML
 

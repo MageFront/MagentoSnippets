@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<action method="unsetChild"><name>$1</name></action>]]></content>
+  <tabTrigger>mg-unsetchild</tabTrigger>
+  <scope>text.xml</scope>
+  <description>Unset Child Method</description>
+</snippet>

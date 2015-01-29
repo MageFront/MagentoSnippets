@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<action method="insert"><block>$1</block></action>]]></content>
+  <tabTrigger>mg-insert</tabTrigger>
+  <scope>text.xml</scope>
+  <description>Insert block Method</description>
+</snippet>
