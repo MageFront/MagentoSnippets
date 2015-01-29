@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[<?xml version="1.0"?>
+<layout version="0.1.0">
+    <default>
+        $1
+    </default>
+</layout>]]></content>
+  <tabTrigger>mg-local-xml</tabTrigger>
+  <scope>text.xml, text.plain</scope>
+  <description>Writes the basic structure to a new local.xml file</description>
+</snippet>
