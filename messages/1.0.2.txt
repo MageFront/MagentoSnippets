@@ -1,0 +1,24 @@
+MagentoSnippets v.1.0.2 (2015.01.30)
+Whats new?!
+
+### XML
+
+* mg-local-xml 	:: Writes the basic structure to a new local.xml file
+* mg-unsetchild :: Unset Child Method
+* mg-insert 	:: Insert block Method
+
+### PHTML
+
+* mg-getchildhtml 		:: Get Child Html Method
+* mg-productTypeId 		:: Get Type Product Id
+* mg-translate-phtml 	:: Adds the translator helper output
+* mg-getAttrText 		:: Get Attribute Text in product view
+
+### JS
+
+* mg-console-log :: Add console.log for debug
+
+## Suggestions
+If you have something to improve these snippets, please create a [issue](https://github.com/MageFront/MagentoSnippets/issues/new)
+
+**For how to do your own snippet and contribute for this tool see the [contribution text](https://github.com/MageFront/MagentoSnippets/blob/master/contribute.md)**
