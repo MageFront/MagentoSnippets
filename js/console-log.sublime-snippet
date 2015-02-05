@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[console.log($1)]]></content>
+	<content><![CDATA[console.log($1);]]></content>
 	<tabTrigger>mg-console-log</tabTrigger>
 	<scope>text.html.basic, source.js.embedded.html, source.js</scope>
 	<description>Add console.log for debug</description>
