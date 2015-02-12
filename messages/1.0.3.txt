@@ -1,0 +1,18 @@
+MagentoSnippets v.1.0.3 (2015.02.00)
+Whats new?!
+
+### XML
+
+
+
+### PHTML
+
+
+
+### JS
+
+
+## Suggestions
+If you have something to improve these snippets, please create a [issue](https://github.com/MageFront/MagentoSnippets/issues/new)
+
+**For how to do your own snippet and contribute for this tool see the [contribution text](https://github.com/MageFront/MagentoSnippets/blob/master/contribute.md)**
