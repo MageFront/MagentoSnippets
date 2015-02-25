@@ -40,6 +40,7 @@ In some editors just the tab key don't trigger the snippet, so you have to press
 1. 'mg-translate-phtml + tab' | Adds the translator helper output
 1. 'mg-getAttrText + tab' | Get Attribute Text in product view
 1. 'mg-url-asec + tab' | Get Array Secure Url
+1. 'mg-format-price-currency + tab' | Format Price
 
 ### JS
 
