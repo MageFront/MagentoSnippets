@@ -27,7 +27,7 @@ In some editors just the tab key don't trigger the snippet, so you have to press
 1. 'mg-local-xml + tab' | Writes the basic structure to a new local.xml file
 1. 'mg-unsetchild + tab' | Unset Child Method
 1. 'mg-insert + tab' | Insert block Method
-1. 'mg-xml-removeItem + tab' | Remove head items by xml
+1. 'mg-removeItem + tab' | Remove head items by xml
 
 ### PHTML
 

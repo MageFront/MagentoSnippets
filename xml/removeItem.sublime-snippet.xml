@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[<action method="removeItem"><type>$1</type><name></name></action>
 ]]></content>
-  <tabTrigger>mg-xml-removeItem</tabTrigger>
+  <tabTrigger>mg-removeItem</tabTrigger>
   <scope>text.xml</scope>
   <description>Remove head items by xml</description>
 </snippet>
