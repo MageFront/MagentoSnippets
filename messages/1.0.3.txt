@@ -6,7 +6,7 @@ Whats new?!
 
 
 ### PHTML
-
+* mg-viewport 		:: Viewport metatag to load media-queries
 
 
 ### JS

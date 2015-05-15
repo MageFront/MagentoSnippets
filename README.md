@@ -13,6 +13,11 @@ In some editors just the tab key don't trigger the snippet, so you have to press
 
 ![MagentoSnippets: example of use](http://www.magefront.com.br/wp-content/uploads/2015/01/MagentoSnippets-sample.gif)
 
+## Suggestions
+If you have something to improve these snippets, please create a [issue](https://github.com/MageFront/MagentoSnippets/issues/new)
+
+**For how to do your own snippet and contribute for this tool see the [contribution text](https://github.com/MageFront/MagentoSnippets/blob/master/contribute.md)**
+
 ## Avaiable Snippets
 
 ### XML
@@ -43,6 +48,7 @@ In some editors just the tab key don't trigger the snippet, so you have to press
 1. 'mg-url-asec + tab' | Get Array Secure Url
 1. 'mg-format-price-currency + tab' | Format Price
 1. 'mg-storeInfo + tab' | Gets store information
+1. 'mg-viewport + tab' | Viewport metatag to load media-queries
 
 ### JS
 
@@ -53,8 +59,3 @@ In some editors just the tab key don't trigger the snippet, so you have to press
 ### SCSS
 
 1. 'mg-clearfix + tab' | Creates a placeholder selector to fix floats
-
-## Suggestions
-If you have something to improve these snippets, please create a [issue](https://github.com/MageFront/MagentoSnippets/issues/new)
-
-**For how to do your own snippet and contribute for this tool see the [contribution text](https://github.com/MageFront/MagentoSnippets/blob/master/contribute.md)**

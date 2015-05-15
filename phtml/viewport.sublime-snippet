@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<meta name="viewport" content="width=device-width,initial-scale=1">]]></content>
+  <tabTrigger>mg-viewport</tabTrigger>
+  <scope>text.html.basic</scope>
+  <description>Viewport metatag to load media-queries</description>
+</snippet>
