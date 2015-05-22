@@ -1,18 +1,22 @@
-MagentoSnippets v.1.0.3 (2015.02.00)
+MagentoSnippets v.1.0.3 (2015.05.22)
 Whats new?!
 
 ### XML
 
-
+* mg-insert 		:: Insert block Method
+* mg-xml-text 		:: Free text in XML
 
 ### PHTML
 * mg-viewport 		:: Viewport metatag to load media-queries
 
 
-### JS
+* mg-url-asec 					:: Get Array Secure Url
+* mg-format-price-currency 		:: Format Price
+* mg-storeInfo 					:: Gets store information
+* mg-viewport 					:: Viewport metatag to load media-queries
 
+## Contribute for this tool!!!
+** We are needing more collaborators! Please don't wait to be one, contribute now! See how in [contribution text](https://github.com/MageFront/MagentoSnippets/blob/master/contribute.md)**
 
 ## Suggestions
 If you have something to improve these snippets, please create a [issue](https://github.com/MageFront/MagentoSnippets/issues/new)
-
-**For how to do your own snippet and contribute for this tool see the [contribution text](https://github.com/MageFront/MagentoSnippets/blob/master/contribute.md)**

@@ -22,39 +22,40 @@ If you have something to improve these snippets, please create a [issue](https:/
 
 ### XML
 
-1. 'mg-xml-cms-block + tab' | CMS Block in XML
-1. 'mg-xml-css + tab' | Adds CSS in XML
-1. 'mg-ref + tab' | Add reference tag
-1. 'mg-rm + tab' | XML to removes a block
-1. 'mg-set-template + tab' | Action to set a new root template
-1. 'mg-xml-skinjs + tab' | Add skin js in XML
-1. 'mg-xml-setcolumn + tab' | Add number of columns in product list
-1. 'mg-local-xml + tab' | Writes the basic structure to a new local.xml file
-1. 'mg-unsetchild + tab' | Unset Child Method
-1. 'mg-insert + tab' | Insert block Method
-1. 'mg-removeItem + tab' | Remove head items by xml
+1. `mg-xml-cms-block` :: CMS Block in XML
+1. `mg-xml-css` :: Adds CSS in XML
+1. `mg-ref` :: Add reference tag
+1. `mg-rm` :: XML to removes a block
+1. `mg-set-template` :: Action to set a new root template
+1. `mg-xml-skinjs` :: Add skin js in XML
+1. `mg-xml-setcolumn` :: Add number of columns in product list
+1. `mg-local-xml` :: Writes the basic structure to a new local.xml file
+1. `mg-unsetchild` :: Unset Child Method
+1. `mg-insert` :: Insert block Method
+1. `mg-removeItem` :: Remove head items by xml
+1. `mg-xml-text` :: Free text in XML
 
 ### PHTML
 
-1. 'mg-php-cms-block + tab' | CMS Block in PHTML(PHP+HTML)
-1. 'mg-url + tab' | Get Url
-1. 'mg-script + tab' | Adds script/javascript tag
-1. 'mg-img + tab' | Image Skin Url
-1. 'mg-vars + tab' | Get Variable from admin
-1. 'mg-getchildhtml + tab' | Get Child Html Method
-1. 'mg-productTypeId + tab' | Get Type Product Id
-1. 'mg-translate-phtml + tab' | Adds the translator helper output
-1. 'mg-getAttrText + tab' | Get Attribute Text in product view
-1. 'mg-url-asec + tab' | Get Array Secure Url
-1. 'mg-format-price-currency + tab' | Format Price
-1. 'mg-storeInfo + tab' | Gets store information
-1. 'mg-viewport + tab' | Viewport metatag to load media-queries
+1. `mg-php-cms-block` :: CMS Block in PHTML(PHP+HTML)
+1. `mg-url` :: Get Url
+1. `mg-script` :: Adds script/javascript tag
+1. `mg-img` :: Image Skin Url
+1. `mg-vars` :: Get Variable from admin
+1. `mg-getchildhtml` :: Get Child Html Method
+1. `mg-productTypeId` :: Get Type Product Id
+1. `mg-translate-phtml` :: Adds the translator helper output
+1. `mg-getAttrText` :: Get Attribute Text in product view
+1. `mg-url-asec` :: Get Array Secure Url
+1. `mg-format-price-currency` :: Format Price
+1. `mg-storeInfo` :: Gets store information
+1. `mg-viewport` :: Viewport metatag to load media-queries
 
 ### JS
 
-1. 'mg-prototype-dom-ready + tab' | Adds Prototype DOM ready
-1. 'mg-anon-func-jquery + tab' | Adds JS anonymous function passing jQuery as parameter
-1. 'mg-console-log + tab' | Add console.log for debug
+1. `mg-prototype-dom-ready` :: Adds Prototype DOM ready
+1. `mg-anon-func-jquery` :: Adds JS anonymous function passing jQuery as parameter
+1. `mg-console-log` :: Add console.log for debug
 
 ### SCSS
 
