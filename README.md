@@ -59,4 +59,4 @@ If you have something to improve these snippets, please create a [issue](https:/
 
 ### SCSS
 
-1. 'mg-clearfix + tab' | Creates a placeholder selector to fix floats
+1. `mg-clearfix` :: Creates a placeholder selector to fix floats
