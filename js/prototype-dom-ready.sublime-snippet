@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[document.observe("dom:loaded", function(){$1});]]></content>
   <tabTrigger>mg-prototype-dom-ready</tabTrigger>
-  <scope>text.html.basic, source.js.embedded.html, source.js</scope>
+  <scope>text.html.basic, source.js.embedded.html, text.js</scope>
   <description>Adds Prototype DOM ready</description>
 </snippet>

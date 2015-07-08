@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<action method="addLinkRel"><rel>$1</rel><href></href></action>]]></content>
+  <tabTrigger>mg-addLinkRel</tabTrigger>
+  <scope>text.xml</scope>
+  <description>Add LinkRel in XML</description>
+</snippet>
