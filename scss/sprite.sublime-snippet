@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[sprite($icons-sprites, $) no-repeat;]]></content>
+  <tabTrigger>mg-scss-sprite</tabTrigger>
+  <scope>source.scss</scope>
+  <description>Calls in scss the Sprite function</description>
+</snippet>
