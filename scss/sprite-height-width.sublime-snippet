@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[height: icons-sprite-height($);
+  <content><![CDATA[height: icons-sprite-height($1);
 width: icons-sprite-width($);]]></content>
   <tabTrigger>mg-scss-sprite-height-width</tabTrigger>
   <scope>source.scss</scope>
