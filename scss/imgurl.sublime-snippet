@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[image-url('$1') no-repeat;]]></content>
   <tabTrigger>mg-scss-imgurl</tabTrigger>
-  <scope>text.scss</scope>
+  <scope>source.sass</scope>
   <description>Calls the image url function</description>
 </snippet>

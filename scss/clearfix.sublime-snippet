@@ -7,6 +7,6 @@
     width: 0;
 }]]></content>
   <tabTrigger>mg-clearfix</tabTrigger>
-  <scope>text.scss</scope>
+  <scope>source.sass</scope>
   <description>Creates a placeholder selector to fix floats</description>
 </snippet>
