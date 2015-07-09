@@ -2,6 +2,6 @@
   <content><![CDATA[height: icons-sprite-height($1);
 width: icons-sprite-width($);]]></content>
   <tabTrigger>mg-scss-sprite-height-width</tabTrigger>
-  <scope>text.scss</scope>
+  <scope>source.sass</scope>
   <description>Calls in scss sprite height and width functions</description>
 </snippet>
