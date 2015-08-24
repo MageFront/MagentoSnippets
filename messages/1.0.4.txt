@@ -1,14 +1,18 @@
 MagentoSnippets v.1.0.4 (2015.08.24)
 Whats new?!
 
+### XML
+
+* mg-addLinkRel :: Add LinkRel in XML
+
 ### SCSS
 
-1. `mg-scss-imgurl` :: Calls the image url function
-1. `mg-scss-sprite-height-width` :: Calls in scss sprite height and width functions
-1. `mg-scss-sprite` :: Calls in scss the Sprite function
+* mg-scss-imgurl 				:: Calls the image url function
+* mg-scss-sprite-height-width   :: Calls in scss sprite height and width functions
+* mg-scss-sprite 				:: Calls in scss the Sprite function
 
 ### JS
-1. `mg-iife-jquery` :: IIFE passing jQuery as parameter
+* mg-iife-jquery :: IIFE passing jQuery as parameter
 This new function replaced the old `mg-anon-func-jquery`
 
 

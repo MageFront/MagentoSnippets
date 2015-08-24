@@ -29,6 +29,7 @@ If you have something to improve these snippets, please create a [issue](https:/
 
 ### XML
 
+1. `mg-addLinkRel` :: Add LinkRel in XML
 1. `mg-xml-cms-block` :: CMS Block in XML
 1. `mg-xml-css` :: Adds CSS in XML
 1. `mg-insert` :: Insert block Method
@@ -60,9 +61,9 @@ If you have something to improve these snippets, please create a [issue](https:/
 
 ### JS
 
-1. `mg-prototype-dom-ready` :: Adds Prototype DOM ready
-1. `mg-anon-func-jquery` :: Adds JS anonymous function passing jQuery as parameter
 1. `mg-console-log` :: Add console.log for debug
+1. `mg-iife-jquery` :: IIFE passing jQuery as parameter
+1. `mg-prototype-dom-ready` :: Adds Prototype DOM ready
 
 ### SCSS
 
