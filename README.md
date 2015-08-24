@@ -18,7 +18,7 @@ In some editors just the tab key don't trigger the snippet, so you have to check
 1. Some people have assigned CTRL+Space as the snippet trigger
 1. Check if another package is not coliding with snippet trigger (i.e. Emmet can cause some issues with Sublime Text 3 Snippet usage)
 
-![MagentoSnippets: example of use](http://www.magefront.com.br/wp-content/uploads/2015/01/MagentoSnippets-sample.gif)
+![MagentoSnippets: example of use](http://www.magefront.com.br/wp-content/uploads/2015/08/MagentoSnippets-sample.gif)
 
 ## Suggestions
 If you have something to improve these snippets, please create a [issue](https://github.com/MageFront/MagentoSnippets/issues/new)
@@ -31,31 +31,31 @@ If you have something to improve these snippets, please create a [issue](https:/
 
 1. `mg-xml-cms-block` :: CMS Block in XML
 1. `mg-xml-css` :: Adds CSS in XML
+1. `mg-insert` :: Insert block Method
+1. `mg-local-xml` :: Writes the basic structure to a new local.xml file
 1. `mg-ref` :: Add reference tag
 1. `mg-rm` :: XML to removes a block
+1. `mg-removeItem` :: Remove head items by xml
+1. `mg-xml-setcolumn` :: Add number of columns in product list
 1. `mg-set-template` :: Action to set a new root template
 1. `mg-xml-skinjs` :: Add skin js in XML
-1. `mg-xml-setcolumn` :: Add number of columns in product list
-1. `mg-local-xml` :: Writes the basic structure to a new local.xml file
 1. `mg-unsetchild` :: Unset Child Method
-1. `mg-insert` :: Insert block Method
-1. `mg-removeItem` :: Remove head items by xml
 1. `mg-xml-text` :: Free text in XML
 
 ### PHTML
 
 1. `mg-php-cms-block` :: CMS Block in PHTML(PHP+HTML)
-1. `mg-url` :: Get Url
-1. `mg-script` :: Adds script/javascript tag
-1. `mg-img` :: Image Skin Url
-1. `mg-vars` :: Get Variable from admin
-1. `mg-getchildhtml` :: Get Child Html Method
-1. `mg-productTypeId` :: Get Type Product Id
-1. `mg-translate-phtml` :: Adds the translator helper output
-1. `mg-getAttrText` :: Get Attribute Text in product view
-1. `mg-url-asec` :: Get Array Secure Url
 1. `mg-format-price-currency` :: Format Price
+1. `mg-getAttrText` :: Get Attribute Text in product view
+1. `mg-getchildhtml` :: Get Child Html Method
+1. `mg-url` :: Get Url
+1. `mg-url-asec` :: Get Array Secure Url
+1. `mg-img` :: Image Skin Url
+1. `mg-productTypeId` :: Get Type Product Id
+1. `mg-script` :: Adds script/javascript tag
 1. `mg-storeInfo` :: Gets store information
+1. `mg-translate-phtml` :: Adds the translator helper output
+1. `mg-vars` :: Get Variable from admin
 1. `mg-viewport` :: Viewport metatag to load media-queries
 
 ### JS
@@ -67,3 +67,6 @@ If you have something to improve these snippets, please create a [issue](https:/
 ### SCSS
 
 1. `mg-clearfix` :: Creates a placeholder selector to fix floats
+1. `mg-scss-imgurl` :: Calls the image url function
+1. `mg-scss-sprite-height-width` :: Calls in scss sprite height and width functions
+1. `mg-scss-sprite` :: Calls in scss the Sprite function

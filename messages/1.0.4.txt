@@ -1,0 +1,26 @@
+MagentoSnippets v.1.0.4 (2015.08.24)
+Whats new?!
+
+### SCSS
+
+1. `mg-scss-imgurl` :: Calls the image url function
+1. `mg-scss-sprite-height-width` :: Calls in scss sprite height and width functions
+1. `mg-scss-sprite` :: Calls in scss the Sprite function
+
+### JS
+1. `mg-iife-jquery` :: IIFE passing jQuery as parameter
+This new function replaced the old `mg-anon-func-jquery`
+
+
+* We made a lot of improvements such as fixed some snippets focus, and broken snippets (that were not working);
+
+* Contribution text was updated too;
+
+* If your tab trigger still not working please check the new recommendations in the Readme file.
+
+
+## Contribute for this tool!!!
+** We are needing more collaborators! Please don't wait to be one, contribute now! See how in [contribution text](https://github.com/MageFront/MagentoSnippets/blob/master/contribute.md)**
+
+## Suggestions
+If you have something to improve these snippets, please create a [issue](https://github.com/MageFront/MagentoSnippets/issues/new)
