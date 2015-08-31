@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[(function (\$) {
   	$1;
-} (jQuery))]]></content>
+})(jQuery);]]></content>
   <tabTrigger>mg-iife-jquery</tabTrigger>
   <scope>text.html.basic, source.js.embedded.html, text.js</scope>
   <description>IIFE passing jQuery as parameter</description>
