@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[<block type="core/text" name="$1">
-    <action method="setText"><text><!\[CDATA[$1\]\]></text></action>
+    <action method="setText"><text><![CDATA[$1]]></text></action>
 </block>]]></content>
   <tabTrigger>mg-xml-text</tabTrigger>
   <scope>text.xml</scope>
